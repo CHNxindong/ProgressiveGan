@@ -2,3 +2,5 @@
 *.jpg
 *.png
 __pycache__
+!readmeDisplay/
+.idea/
